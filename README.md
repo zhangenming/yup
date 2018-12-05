@@ -100,7 +100,7 @@ json separate from validating it, via the `cast` method.
 ## Install
 
 ```sh
-npm i -S yup
+npm install -S yup
 ```
 
 Yup always relies on the `Promise` global object to handle asynchronous values as well as `Set` and `Map`.
